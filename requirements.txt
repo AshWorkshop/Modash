@@ -3,3 +3,8 @@ scipy
 ipython
 matplotlib
 pandas
+jupyter
+notebook
+seaborn
+statsmodels
+
